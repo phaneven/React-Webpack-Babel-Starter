@@ -1,4 +1,5 @@
-<center>React-Webpack-Babel-Stater</center>
+### React-Webpack-Babel-Stater
+---
 
 ##### Major Dependencies
 
