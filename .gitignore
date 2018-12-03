@@ -6,7 +6,7 @@
 node_modules
 
 # bundle files
-dist/
+dist
 .idea
 
 # logs
